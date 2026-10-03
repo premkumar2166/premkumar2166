@@ -24,42 +24,16 @@
 
 <hr style="border: 1px solid #333333;" />
 
-## ❖ Skills 
+<h2 style="color: #D4AF37;">❖ Core Languages & Technologies</h2>
 
-### Frontend Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React.js-050505?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=next.js&logoColor=D4AF37" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&logo=tailwind-css&logoColor=D4AF37" alt="Tailwind CSS" />
-</p>
-
-### Backend Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=D4AF37" alt="Node.js" />
-</p>
-
-### Database Skills
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
-</p>
-
-### Professional Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=D4AF37" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=D4AF37" alt="Figma" />
-  <img src="https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=D4AF37" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Android_Studio-050505?style=for-the-badge&logo=android-studio&logoColor=D4AF37" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="SQL" />
+  <img src="https://img.shields.io/badge/Dart-050505?style=for-the-badge&logo=dart&logoColor=D4AF37" alt="Dart" />
 </p>
 
 <hr style="border: 1px solid #333333;" />
