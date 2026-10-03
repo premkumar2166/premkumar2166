@@ -1,91 +1,158 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Premkumar!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header Image" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Premkumar!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prem-kumar-4558633b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/premkumar2166">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Premkumar%20%F0%9F%91%8B;BCA%20Student%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prem-kumar-4558633b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
   <a href="mailto:premkumar.k77755@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/premkumar1030/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  &nbsp;
+  <a href="https://github.com/premkumar2166" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
-### 👨‍💻 About Me
-
-I’m passionate about building real-world web applications, AI-powered solutions, and secure software. I enjoy learning new technologies, solving problems, and turning ideas into practical projects 🚀
-
-- 🎓 **Education:** BCA Student at **Takshashila University** (Computer Science, Class of 2025)
-- 📍 **Location:** Melmaruvathur
-- 🎯 **Career Goal:** To become a skilled Full-Stack Developer and AI Engineer, building secure, scalable, and intelligent real-world applications.
-- 🌱 **Currently Learning:** Python, Full-Stack Development, AI/ML, APIs
-- 🗣️ **Languages:** English, Tamil
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=premkumar2166&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
-**Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<h2 align="center">🔴 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
-**Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
----
+<p align="center">
+  Hey! I'm <b>Premkumar</b>, a passionate <b>BCA Computer Science student & Full-Stack Developer</b> based in India.<br />
+  I specialize in building real-world web applications, AI-powered solutions, and secure software.
+</p>
 
-### 📊 GitHub & Coding Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-BCA_Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="premkumar2166's GitHub stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&theme=radical&hide_border=true&background=0D1117" alt="premkumar2166's GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=radical&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  💬 <b>Let's Discuss:</b> Web Development, Python, Databases, System Architecture & APIs.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning ideas into fully deployed practical projects!"</i>
+</p>
 
----
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🔭 Flagship Project</h4>
+      <p><b>Upcoming Project</b><br /><sub>Full-Stack Application</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🌱 Active Deep Dives</h4>
+      <p><b>Python & Full-Stack</b><br /><sub>React Ecosystem & AI/ML</sub></p>
+    </td>
+  </tr>
+</table>
 
-### 🚀 Projects
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
-*(Projects and details will be updated here soon!)*
+<p align="center">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+</p>
 
----
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image" />
-</div>
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Frontend Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center"><b>Backend, Cloud & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql,firebase&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
+</p>
+
+<p align="center"><b>Tools & DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,androidstudio&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
+  </a>
+</p>
+
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">⚡ Contribution Journey</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/premkumar2166/premkumar2166/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+<h2 align="center">📬 Let's Connect & Collaborate</h2>
+<p align="center"><i>Whether you want to discuss system architecture, explore collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://www.linkedin.com/in/prem-kumar-4558633b0/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /><br /><br />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+      </a><br />
+      <sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="mailto:premkumar.k77755@email.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /><br /><br />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+      </a><br />
+      <sub><b>Direct Collaboration</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+</p>
