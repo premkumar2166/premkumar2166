@@ -117,7 +117,7 @@
 <br />
 
 <div align="center">
-  <img src="assets/project-aicf.svg" width="100%" alt="AICF - AI Content Forensics & Authenticity Intelligence" />
+  <img src="assets/project-aicf.svg" width="100%" alt="AICF - AI Content Forensics &amp; Authenticity Intelligence" />
 </div>
 <p align="left">
   A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection.
