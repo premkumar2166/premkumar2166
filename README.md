@@ -57,6 +57,15 @@
   <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logoColor=D4AF37" alt="REST APIs" />
 </p>
 
+<h2 style="color: #D4AF37;">❖ Database Architecture</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logoColor=D4AF37" alt="SQL" />
+</p>
+
 <hr style="border: 1px solid #333333;" />
 
 ## ❖ Projects
