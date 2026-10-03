@@ -1,0 +1,16 @@
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slowPulse { 0%, 100% { opacity: 0.2; } 50% { opacity: 0.8; } }
+      .glow { animation: slowPulse 5s ease-in-out infinite; }
+    </style>
+    <linearGradient id="goldTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="20" fill="#050505" />
+  <rect x="50" y="10" width="700" height="1" fill="url(#goldTop)" class="glow" />
+  <circle cx="400" cy="10" r="3" fill="#D4AF37" class="glow" />
+</svg>
