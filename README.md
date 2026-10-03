@@ -86,8 +86,10 @@
 
 | Project Name | Description | Tech Stack | Live / Source |
 | :--- | :--- | :--- | :--- |
-| **[Project Title Placeholder](#)** | Brief, professional description of the project and its core impact. | React, Node.js | [View Live](#) \| [Code](#) |
-| **[Project Title Placeholder](#)** | Brief, professional description of the project and its core impact. | Python, MongoDB | [View Live](#) \| [Code](#) |
+| **[ZEON AI — Intelligent AI Operating System](#)** | A unified AI operating system designed to bring coding, debugging, research, productivity, automation, voice interaction, and other AI capabilities into one intelligent assistant. | [TBD] | [Live](#) \| [Code](#) |
+| **[HEALTHLINK — Connected Healthcare Platform](#)** | A healthcare platform with separate Patient Portal, Doctor Portal, and Hospital Management Portal for connected healthcare workflows. | [TBD] | [Live](#) \| [Code](#) |
+| **[AICF — AI Content Forensics & Authenticity Intelligence Platform](#)** | A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection. | [TBD] | [Live](#) \| [Code](#) |
+| **[SAHAAYAK — Digital Healthcare Companion](#)** | A digital healthcare companion focused on AYUSH-oriented health management, patient information, and AI-assisted healthcare workflows. | [TBD] | [Live](#) \| [Code](#) |
 
 *(More projects will be highlighted here as they are published.)*
 
