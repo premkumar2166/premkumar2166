@@ -165,7 +165,7 @@
 
 <div align="center">
   <img src="assets/animated-contribution-top.svg" width="100%" alt="GitHub Contribution Activity Overview" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2166&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/D4AF37/premkumar2166" width="100%" alt="Contribution Graph" />
   <img src="assets/animated-contribution-bottom.svg" width="100%" alt="Activity • Consistency • Progress" />
 </div>
 
