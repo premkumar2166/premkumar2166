@@ -105,17 +105,17 @@
   </a>
 </p>
 
-## ❖ GitHub Statistics
+<h2 style="color: #D4AF37;">❖ GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=333333&border_radius=4" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=333333&border_radius=4" height="192" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
 ## ❖ Contribution Activity
