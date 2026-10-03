@@ -1,0 +1,32 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulseGlow { 0%, 100% { opacity: 0.3; } 50% { opacity: 0.8; } }
+      @keyframes sweep { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+      .glow { animation: pulseGlow 4s ease-in-out infinite; }
+      .sweep { animation: sweep 5s linear infinite; opacity: 0.1; }
+    </style>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8C6A00" />
+      <stop offset="50%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#8C6A00" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1000" height="120" fill="#050505" />
+  
+  <!-- Top Border -->
+  <rect x="0" y="0" width="1000" height="2" fill="url(#gold-grad)" />
+  <rect x="0" y="0" width="200" height="2" fill="#F5F5F5" class="sweep" />
+  
+  <!-- Left and Right Borders going down -->
+  <rect x="0" y="0" width="2" height="120" fill="#D4AF37" opacity="0.5" />
+  <rect x="998" y="0" width="2" height="120" fill="#D4AF37" opacity="0.5" />
+  
+  <text x="500" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#F5F5F5" text-anchor="middle" letter-spacing="4">GITHUB CONTRIBUTION ACTIVITY</text>
+  <text x="500" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#D4AF37" text-anchor="middle" letter-spacing="2">Building consistently. Learning continuously.</text>
+  
+  <!-- Glowing subtle accents -->
+  <circle cx="50" cy="60" r="4" fill="#D4AF37" class="glow" />
+  <circle cx="950" cy="60" r="4" fill="#D4AF37" class="glow" />
+</svg>

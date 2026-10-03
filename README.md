@@ -164,28 +164,10 @@
 <br />
 
 <div align="center">
-  <img src="assets/animated-activity-header.svg" width="100%" alt="Contribution Activity" />
+  <img src="assets/animated-contribution-top.svg" width="100%" alt="GitHub Contribution Activity Overview" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2166&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="assets/animated-contribution-bottom.svg" width="100%" alt="Activity • Consistency • Progress" />
 </div>
-
-<p align="center">
-  <img src="assets/animated-activity-accent-top.svg" width="100%" alt="Animated glowing border" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/premkumar2166" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2166&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/premkumar2166" target="_blank">
-    <img src="https://ghchart.rshah.org/D4AF37/premkumar2166" alt="GitHub contribution calendar heat map for Premkumar K" style="max-width: 100%;" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="assets/animated-activity-accent-bottom.svg" width="100%" alt="Activity - Consistency - Progress" />
-</p>
 
 <br />
 
