@@ -101,7 +101,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Inter&ext=activity&border=0&radius=8" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card Placeholder" />
+    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Inter&ext=activity&border=0&radius=8" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@
   <a href="https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/premkumar1030/L" target="_blank">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode" />
   </a>
   <a href="mailto:premkumar.k77755@email.com">
