@@ -36,6 +36,19 @@
   <img src="https://img.shields.io/badge/Dart-050505?style=for-the-badge&logo=dart&logoColor=D4AF37" alt="Dart" />
 </p>
 
+<h2 style="color: #D4AF37;">❖ Frontend Architecture</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React.js-050505?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=next.js&logoColor=D4AF37" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&logo=tailwind-css&logoColor=D4AF37" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Responsive_Web_Design-050505?style=for-the-badge&logoColor=D4AF37" alt="Responsive Web Design" />
+</p>
+
 <hr style="border: 1px solid #333333;" />
 
 ## ❖ Projects
