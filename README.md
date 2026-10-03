@@ -82,7 +82,7 @@
 
 <hr style="border: 1px solid #333333;" />
 
-## ❖ Projects
+<h2 style="color: #D4AF37;">❖ Projects</h2>
 
 | Project Name | Description | Tech Stack | Live / Source |
 | :--- | :--- | :--- | :--- |
