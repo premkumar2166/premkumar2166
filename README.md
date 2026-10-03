@@ -6,20 +6,15 @@
 
 <hr style="border: 1px solid #D4AF37;" />
 
-## ❖ Introduction
+<h2 style="color: #D4AF37;">❖ About Me</h2>
 
-Welcome to my digital workspace. I am a dedicated Computer Science student based in India, specializing in building robust, modern software architectures. I bridge the gap between elegant design and scalable engineering to deliver practical, real-world solutions.
+<p style="color: #F5F5F5; font-size: 16px;">
+  I am a dedicated <b>BCA Student</b> specializing in <b>Full-Stack Development</b> and the integration of <b>AI into modern applications</b>. My focus is firmly set on continuous learning, mastering new technologies, and refining my problem-solving skills to engineer practical, real-world software.
+</p>
 
-## ❖ About Me
-
-- 🎓 **Education:** BCA Student at **Takshashila University** (Class of 2025)
-- 📍 **Location:** Melmaruvathur, India
-- 🌱 **Currently Exploring:** Python, Advanced Full-Stack Development, Artificial Intelligence & Machine Learning APIs
-- 🗣️ **Languages:** English, Tamil
-
-## ❖ Career Goal
-
-> To become a skilled Full-Stack Developer and AI Engineer, building secure, scalable, and intelligent real-world applications.
+<p style="color: #A3A3A3; font-size: 15px;">
+  Driven by a passion for scalable architecture, my objective is to evolve as a robust Full-Stack Developer and AI Engineer—capable of architecting intelligent, secure, and highly efficient systems from the ground up.
+</p>
 
 <hr style="border: 1px solid #333333;" />
 
