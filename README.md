@@ -82,49 +82,65 @@
 
 <hr style="border: 1px solid #333333;" />
 
-<h2 style="color: #D4AF37;">❖ Projects</h2>
-
-### ZEON AI — Intelligent AI Operating System
-A unified AI operating system designed to bring coding, debugging, research, productivity, automation, voice interaction, and other AI capabilities into one intelligent assistant.
-
-**Tech Stack:**
-`TBD`
-
-**Links:**
-Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+<div align="center">
+  <img src="assets/animated-projects-header.svg" width="100%" alt="Featured Projects" />
+</div>
 
 <br />
 
-### HEALTHLINK — Connected Healthcare Platform
-A healthcare platform with separate Patient Portal, Doctor Portal, and Hospital Management Portal for connected healthcare workflows.
-
-**Tech Stack:**
-`TBD`
-
-**Links:**
-Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
-
-<br />
-
-### AICF — AI Content Forensics & Authenticity Intelligence Platform
-A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection.
-
-**Tech Stack:**
-`TBD`
-
-**Links:**
-Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+<div align="center">
+  <img src="assets/project-zeon.svg" width="100%" alt="ZEON AI - Intelligent AI Operating System" />
+</div>
+<p align="left">
+  A unified AI operating system designed to bring coding, debugging, research, productivity, automation, voice interaction, and other AI capabilities into one intelligent assistant.
+  <br><br>
+  <b>Tech Stack:</b> <code>TBD</code><br>
+  <b>Status:</b> 🚧 In Development<br><br>
+  <img src="https://img.shields.io/badge/Repository-Coming_Soon-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Repo" />
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Demo" />
+</p>
 
 <br />
 
-### SAHAAYAK — Digital Healthcare Companion
-A digital healthcare companion focused on AYUSH-oriented health management, patient information, and AI-assisted healthcare workflows.
+<div align="center">
+  <img src="assets/project-healthlink.svg" width="100%" alt="HEALTHLINK - Connected Healthcare Platform" />
+</div>
+<p align="left">
+  A healthcare platform with separate Patient Portal, Doctor Portal, and Hospital Management Portal for connected healthcare workflows.
+  <br><br>
+  <b>Tech Stack:</b> <code>TBD</code><br>
+  <b>Status:</b> 🚧 In Development<br><br>
+  <img src="https://img.shields.io/badge/Repository-Coming_Soon-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Repo" />
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Demo" />
+</p>
 
-**Tech Stack:**
-`TBD`
+<br />
 
-**Links:**
-Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+<div align="center">
+  <img src="assets/project-aicf.svg" width="100%" alt="AICF - AI Content Forensics & Authenticity Intelligence" />
+</div>
+<p align="left">
+  A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection.
+  <br><br>
+  <b>Tech Stack:</b> <code>TBD</code><br>
+  <b>Status:</b> 🚧 In Development<br><br>
+  <img src="https://img.shields.io/badge/Repository-Coming_Soon-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Repo" />
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Demo" />
+</p>
+
+<br />
+
+<div align="center">
+  <img src="assets/project-sahaayak.svg" width="100%" alt="SAHAAYAK - Digital Healthcare Companion" />
+</div>
+<p align="left">
+  A digital healthcare companion focused on AYUSH-oriented health management, patient information, and AI-assisted healthcare workflows.
+  <br><br>
+  <b>Tech Stack:</b> <code>TBD</code><br>
+  <b>Status:</b> 🚧 In Development<br><br>
+  <img src="https://img.shields.io/badge/Repository-Coming_Soon-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Repo" />
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Demo" />
+</p>
 
 *(More projects will be highlighted here as they are published.)*
 
