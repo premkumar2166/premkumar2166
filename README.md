@@ -142,40 +142,56 @@
   <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-050505?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Demo" />
 </p>
 
-*(More projects will be highlighted here as they are published.)*
-
-<h2 style="color: #D4AF37;">❖ LeetCode Profile</h2>
-
-<p align="left">
-  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
-    <img src="https://img.shields.io/badge/View_LeetCode_Profile-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode Profile" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Inter&ext=activity&border=0&radius=8" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
-</p>
-
-<h2 style="color: #D4AF37;">❖ GitHub Analytics</h2>
+*(More projects will be highlighted here as they are published.)*<hr style="border: 1px solid #333333;" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="Top Languages" />
+  <img src="assets/animated-stats-header.svg" width="100%" alt="GitHub Analytics" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=D4AF37&border_radius=4" height="192" style="max-width: 100%;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=D4AF37&border_radius=4" height="192" style="max-width: 100%;" alt="Top Languages" />
 </div>
 
-<h2 style="color: #D4AF37;">❖ Contribution Activity</h2>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&hide_border=false&border=D4AF37&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/animated-activity-header.svg" width="100%" alt="Contribution Activity" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2166&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%;" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="assets/animated-leetcode-header.svg" width="100%" alt="LeetCode Profile" />
+</div>
+
+<br />
+
+<p align="center">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Inter&ext=activity&border=0&radius=8" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://img.shields.io/badge/View_LeetCode_Profile-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode Profile" />
+  </a>
+</p>
 
 <hr style="border: 1px solid #333333;" />
 
