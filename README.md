@@ -8,12 +8,16 @@
 
 <h2 style="color: #D4AF37;">❖ About Me</h2>
 
-<p style="color: #F5F5F5; font-size: 16px;">
-  I am a dedicated <b>BCA Student</b> specializing in <b>Full-Stack Development</b> and the integration of <b>AI into modern applications</b>. My focus is firmly set on continuous learning, mastering new technologies, and refining my problem-solving skills to engineer practical, real-world software.
+<p style="color: #F5F5F5; font-size: 16px; line-height: 1.6;">
+  I am a <b>BCA Student</b> and passionate <b>Full-Stack Developer</b> dedicated to building secure, scalable, and intelligent real-world applications. My development focus centers on architecting robust backend systems, intuitive frontend interfaces, and practical software solutions that solve genuine technical problems.
 </p>
 
-<p style="color: #A3A3A3; font-size: 15px;">
-  Driven by a passion for scalable architecture, my objective is to evolve as a robust Full-Stack Developer and AI Engineer—capable of architecting intelligent, secure, and highly efficient systems from the ground up.
+<p style="color: #A3A3A3; font-size: 15px; line-height: 1.6;">
+  Beyond traditional web development, I have a deep interest in exploring <b>AI/ML</b>, intelligent systems, and automation. I enjoy integrating modern APIs and cybersecurity practices into my projects to ensure they are both powerful and protected. I am continuously learning Python, modern web frameworks, and artificial intelligence to stay at the cutting edge of technology.
+</p>
+
+<p style="color: #A3A3A3; font-size: 15px; line-height: 1.6;">
+  My ultimate career goal is to evolve into a proficient <b>Full-Stack Developer and AI Engineer</b>. Whether I am exploring new tech stacks or refining my programming foundation, my motivation is always driven by the desire to engineer high-quality, impactful software from the ground up.
 </p>
 
 <br />
