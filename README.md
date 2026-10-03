@@ -140,11 +140,8 @@
   </a>
 </p>
 
-## ❖ Footer
+<hr style="border: 1px solid #D4AF37;" />
 
 <div align="center">
-  <p style="color: #A3A3A3; font-size: 14px;">
-    <i>Architected with precision. Designed for impact.</i><br />
-    © 2026 Premkumar K
-  </p>
+  <img src="assets/footer.svg" width="100%" alt="Building. Learning. Creating." />
 </div>
