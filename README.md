@@ -126,19 +126,17 @@
 
 <hr style="border: 1px solid #333333;" />
 
-## ❖ Connect With Me
+<h2 style="color: #D4AF37;">❖ Let's Connect</h2>
 
-<p>
-  <a href="https://linkedin.com/in/prem-kumar-4558633b0" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
   </a>
-  &nbsp;
+  <a href="https://leetcode.com/u/premkumar1030/L" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode" />
+  </a>
   <a href="mailto:premkumar.k77755@email.com">
     <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/premkumar2166" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
   </a>
 </p>
 
