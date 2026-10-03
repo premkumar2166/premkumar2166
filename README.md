@@ -16,6 +16,12 @@
   Driven by a passion for scalable architecture, my objective is to evolve as a robust Full-Stack Developer and AI Engineer—capable of architecting intelligent, secure, and highly efficient systems from the ground up.
 </p>
 
+<br />
+<p align="center">
+  <img src="assets/career-goal.svg" width="100%" alt="Career Goal: To become a skilled Full-Stack Developer and AI Engineer, building secure, scalable, and intelligent real-world applications." />
+</p>
+<br />
+
 <hr style="border: 1px solid #333333;" />
 
 ## ❖ Skills 
