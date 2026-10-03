@@ -118,11 +118,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
-## ❖ Contribution Activity
+<h2 style="color: #D4AF37;">❖ Contribution Activity</h2>
 
-<!-- Awaiting custom snake animation implementation -->
-<p>
-  <i>(Contribution graph animation will be displayed here.)</i>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<p align="center" style="color: #A3A3A3; font-size: 14px;">
+  <i>(A custom Contribution Snake Animation will be configured here via GitHub Actions once the repository is finalized.)</i>
 </p>
 
 <hr style="border: 1px solid #333333;" />
