@@ -49,6 +49,14 @@
   <img src="https://img.shields.io/badge/Responsive_Web_Design-050505?style=for-the-badge&logoColor=D4AF37" alt="Responsive Web Design" />
 </p>
 
+<h2 style="color: #D4AF37;">❖ Backend Architecture</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logoColor=D4AF37" alt="REST APIs" />
+</p>
+
 <hr style="border: 1px solid #333333;" />
 
 ## ❖ Projects
