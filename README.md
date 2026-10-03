@@ -28,8 +28,13 @@
 
 <hr style="border: 1px solid #333333;" />
 
-<h2 style="color: #D4AF37;">❖ Core Languages & Technologies</h2>
+<div align="center">
+  <img src="assets/animated-skills-header.svg" width="100%" alt="Technical Skills" />
+</div>
 
+<br />
+
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
@@ -40,29 +45,22 @@
   <img src="https://img.shields.io/badge/Dart-050505?style=for-the-badge&logo=dart&logoColor=D4AF37" alt="Dart" />
 </p>
 
-<h2 style="color: #D4AF37;">❖ Frontend Architecture</h2>
-
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React.js-050505?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=next.js&logoColor=D4AF37" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&logo=tailwind-css&logoColor=D4AF37" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Responsive_Web_Design-050505?style=for-the-badge&logoColor=D4AF37" alt="Responsive Web Design" />
 </p>
 
-<h2 style="color: #D4AF37;">❖ Backend Architecture</h2>
-
+### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node.js" />
   <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logoColor=D4AF37" alt="REST APIs" />
 </p>
 
-<h2 style="color: #D4AF37;">❖ Database Architecture</h2>
-
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
@@ -70,12 +68,10 @@
   <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logoColor=D4AF37" alt="SQL" />
 </p>
 
-<h2 style="color: #D4AF37;">❖ Professional Tools</h2>
-
+### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=D4AF37" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=D4AF37" alt="Figma" />
