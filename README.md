@@ -108,20 +108,20 @@
 <h2 style="color: #D4AF37;">❖ GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumar2166&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2166&layout=compact&bg_color=050505&title_color=D4AF37&text_color=F5F5F5&border_color=333333&border_radius=4" height="192" style="max-width: 100%;" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkumar2166&hide_border=false&border=333333&background=050505&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=F5F5F5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=F5F5F5" height="192" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
 <h2 style="color: #D4AF37;">❖ Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android]&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" alt="Contribution Graph Placeholder" style="max-width: 100%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2166&bg_color=050505&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%;" />
 </div>
 
 <hr style="border: 1px solid #333333;" />
@@ -137,6 +137,9 @@
   </a>
   <a href="mailto:premkumar.k77755@email.com">
     <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
+  </a>
+  <a href="https://github.com/premkumar2166" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
   </a>
 </p>
 
