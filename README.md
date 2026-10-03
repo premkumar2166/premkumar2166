@@ -91,11 +91,17 @@
 
 *(More projects will be highlighted here as they are published.)*
 
-## ❖ LeetCode Profile
+<h2 style="color: #D4AF37;">❖ LeetCode Profile</h2>
 
-<p>
+<p align="left">
   <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+    <img src="https://img.shields.io/badge/View_LeetCode_Profile-050505?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode Profile" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/premkumar1030?theme=dark&font=Inter&ext=activity&border=0&radius=8" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card Placeholder" />
   </a>
 </p>
 
