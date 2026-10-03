@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Premkumar K - Full-Stack Developer" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1500&color=D4AF37&center=true&vCenter=true&width=650&height=50&lines=Hi%2C%20I'm%20Premkumar%20%F0%9F%91%8B;Full-Stack%20Developer;Building%20Real-World%20Web%20Applications;Exploring%20AI%20%26%20Modern%20Technologies" alt="Typing Animation: Roles and Interests" />
 </div>
 
 <hr style="border: 1px solid #D4AF37;" />
