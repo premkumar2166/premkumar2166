@@ -131,7 +131,7 @@
 <h2 style="color: #D4AF37;">❖ Let's Connect</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prem-kumar-4558633b0?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/prem-kumar-4558633b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/premkumar1030/" target="_blank">
