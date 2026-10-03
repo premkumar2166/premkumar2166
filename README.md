@@ -84,12 +84,47 @@
 
 <h2 style="color: #D4AF37;">❖ Projects</h2>
 
-| Project Name | Description | Tech Stack | Live / Source |
-| :--- | :--- | :--- | :--- |
-| **[ZEON AI — Intelligent AI Operating System](#)** | A unified AI operating system designed to bring coding, debugging, research, productivity, automation, voice interaction, and other AI capabilities into one intelligent assistant. | [TBD] | [Live](#) \| [Code](#) |
-| **[HEALTHLINK — Connected Healthcare Platform](#)** | A healthcare platform with separate Patient Portal, Doctor Portal, and Hospital Management Portal for connected healthcare workflows. | [TBD] | [Live](#) \| [Code](#) |
-| **[AICF — AI Content Forensics & Authenticity Intelligence Platform](#)** | A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection. | [TBD] | [Live](#) \| [Code](#) |
-| **[SAHAAYAK — Digital Healthcare Companion](#)** | A digital healthcare companion focused on AYUSH-oriented health management, patient information, and AI-assisted healthcare workflows. | [TBD] | [Live](#) \| [Code](#) |
+### ZEON AI — Intelligent AI Operating System
+A unified AI operating system designed to bring coding, debugging, research, productivity, automation, voice interaction, and other AI capabilities into one intelligent assistant.
+
+**Tech Stack:**
+`TBD`
+
+**Links:**
+Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+
+<br />
+
+### HEALTHLINK — Connected Healthcare Platform
+A healthcare platform with separate Patient Portal, Doctor Portal, and Hospital Management Portal for connected healthcare workflows.
+
+**Tech Stack:**
+`TBD`
+
+**Links:**
+Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+
+<br />
+
+### AICF — AI Content Forensics & Authenticity Intelligence Platform
+A multimodal AI content forensics platform designed to analyze text, images, video, and audio for AI-generated or synthetic content using evidence-based detection.
+
+**Tech Stack:**
+`TBD`
+
+**Links:**
+Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
+
+<br />
+
+### SAHAAYAK — Digital Healthcare Companion
+A digital healthcare companion focused on AYUSH-oriented health management, patient information, and AI-assisted healthcare workflows.
+
+**Tech Stack:**
+`TBD`
+
+**Links:**
+Repository: Coming Soon &nbsp;·&nbsp; Live Demo: Coming Soon
 
 *(More projects will be highlighted here as they are published.)*
 
