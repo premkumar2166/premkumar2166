@@ -66,6 +66,20 @@
   <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logoColor=D4AF37" alt="SQL" />
 </p>
 
+<h2 style="color: #D4AF37;">❖ Professional Tools</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=D4AF37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=D4AF37" alt="Figma" />
+  <img src="https://img.shields.io/badge/n8n-050505?style=for-the-badge&logo=n8n&logoColor=D4AF37" alt="n8n" />
+  <img src="https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=D4AF37" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android_Studio-050505?style=for-the-badge&logo=android-studio&logoColor=D4AF37" alt="Android Studio" />
+</p>
+
 <hr style="border: 1px solid #333333;" />
 
 ## ❖ Projects
